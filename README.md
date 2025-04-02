@@ -2,7 +2,7 @@ Hello!
 Welcome to my first project [RS School](https://rs.school).
 This project aimed to create a user-friendly web application designed to assist animal shelters and rescue organizations in managing their operations efficiently.
 
-[Link on deploy](https://crystal-twinkle.github.io/shelter/shelter/)
+[Link on deploy](https://kristilight.github.io/shelter/shelter/))
 
 
 
