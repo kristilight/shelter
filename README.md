@@ -4,7 +4,7 @@ This project aimed to create a user-friendly web application designed to assist 
 
 [Link on deploy](https://kristilight.github.io/shelter/shelter/)
 
-
+https://www.figma.com/design/Yk6EnbY63FyG2PJTFkJDMh/shelter?node-id=94-43&p=f
 
 Added Functionality:
 
